@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "ESU_Darat",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-10-23T07:38:27.976521Z",
+  "generator": "pub",
+  "generatorVersion": "2.9.2"
+}
